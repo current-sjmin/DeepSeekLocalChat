@@ -11,7 +11,7 @@
 - pip install -r requirements.txt
 
 ## Run Ollama server and Download the DeepSeek Model
-- ollama serve &
+- ollama serve
 - ollama run deepseek-r1:1.5b (Model Details : https://ollama.com/library/deepseek-r1)
 
 ## Pull the model and Run (Using Ollama Model)
