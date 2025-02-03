@@ -15,7 +15,7 @@
 - ollama run deepseek-r1:1.5b (Model Details : https://ollama.com/library/deepseek-r1)
 
 ## Pull the model and Run (Using Ollama Model)
-- python run_deepseek_ollama.py --update_system
+- python run_deepseek_ollama.py --model 1.5b
 
 ## Pull the model and Run (Using Hugging Face Model)
 - python run_deepseek_1.5b.py
